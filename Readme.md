@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/NavigationPanelOptions/Form1.cs) (VB: [Form1.vb](./VB/NavigationPanelOptions/Form1.vb))
+* [Program.cs](./CS/NavigationPanelOptions/Program.cs) (VB: [Program.vb](./VB/NavigationPanelOptions/Program.vb))
+<!-- default file list end -->
 # How to customize an appearance of the map control's navigation panel
 
 
